@@ -1,0 +1,7 @@
+{
+  "name": "متتبع صالونات التجميل في وهران - Oran Beauty Prospects Tracker",
+  "description": "أداة متخصصة لتصفح ومتابعة صالونات التجميل في وهران (57 صالوناً) وإدارة مسار التواصل والمبيعات مع حفظ سلامة البيانات وتوثيق المصادر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
